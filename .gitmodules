@@ -1,0 +1,12 @@
+[submodule "InciManager_"]
+	path = InciManager_
+	url = https://github.com/tejido18/inciManager.git
+[submodule "InciDashboard_"]
+	path = InciDashboard_
+	url = https://github.com/tejido18/inciDashboard.git
+[submodule "Loader_"]
+	path = Loader_
+	url = https://github.com/tejido18/Loader.git
+[submodule "Agent_"]
+	path = Agent_
+	url = https://github.com/tejido18/Agents.git
